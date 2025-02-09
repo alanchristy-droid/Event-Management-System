@@ -182,4 +182,3 @@ The project uses JUnit and Mockito for testing. The test classes are located in 
 ## Configuration
 
 The application configuration is located in the `application.properties` file in the `src/main/resources` directory.
-````
